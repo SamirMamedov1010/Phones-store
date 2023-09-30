@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.f683f773.css",
+    "main.js": "./static/js/main.92a147dc.js",
+    "static/media/banner-accessories-new.png": "./static/media/banner-accessories-new.0cdac20947fa028ebb6c.png",
+    "static/media/banner-Ipads.png": "./static/media/banner-Ipads.df5b73450c9e51d4ad73.png",
+    "static/media/Mont-Regular.otf": "./static/media/Mont-Regular.1d26d89f7339866d3133.otf",
+    "static/media/Mont-SemiBold.otf": "./static/media/Mont-SemiBold.8979d71a3146ca1d761f.otf",
+    "static/media/Mont-Bold.otf": "./static/media/Mont-Bold.03c8c2f6127c1da0fc39.otf",
+    "static/media/category-accessories.png": "./static/media/category-accessories.b914f4124f0dab3439fb.png",
+    "static/media/category-tablets.png": "./static/media/category-tablets.ed3dd9df51129690126b.png",
+    "static/media/category-phones.png": "./static/media/category-phones.8478b80a5f4c5cd7a39f.png",
+    "static/media/banner-iPhone-14-Colors.png": "./static/media/banner-iPhone-14-Colors.a3f2d5152f552de6d086.png",
+    "static/media/Cart.svg": "./static/media/Cart.89133a0a9c316350dc18e1d80e3bcdf4.svg",
+    "static/media/Favourites (Heart Like).svg": "./static/media/Favourites (Heart Like).420ab37df22dfad9055f45fdaff0c590.svg",
+    "static/media/Chevron (Arrow Left).svg": "./static/media/Chevron (Arrow Left).960106b239d993f02b1fada9a9858e17.svg",
+    "static/media/Chevron (Arrow Right).svg": "./static/media/Chevron (Arrow Right).70f42d77d4895623e71b884dc12f349b.svg",
+    "index.html": "./index.html",
+    "main.f683f773.css.map": "./static/css/main.f683f773.css.map",
+    "main.92a147dc.js.map": "./static/js/main.92a147dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f683f773.css",
+    "static/js/main.92a147dc.js"
+  ]
+}
