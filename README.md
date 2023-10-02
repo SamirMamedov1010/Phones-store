@@ -11,6 +11,8 @@ The app was implemented according to [Figma design](https://www.figma.com/file/s
 
 React
 
+(React-select, Bulma libraries)
+
 CSS3: Grid, Flexbox
 
 BEM methodology
