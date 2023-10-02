@@ -1,5 +1,5 @@
 # React Phone Catalog
-This is a phone catalog website. Thos app is built using React, SCSS and JavaScript.
+This is a phone store website. This app is built using React, SCSS and JavaScript.
 
 **Live Preview**
 
@@ -10,6 +10,8 @@ The app was implemented according to [Figma design](https://www.figma.com/file/s
 **Built with**
 
 React
+
+Custom hooks
 
 (React-select, Bulma libraries)
 
